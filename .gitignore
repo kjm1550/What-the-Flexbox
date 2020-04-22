@@ -1,2 +1,3 @@
 # Don't track content of these folders
 autoprefixer/node_modules
+autoprefixer/package-lock.json
